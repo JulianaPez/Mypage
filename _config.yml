@@ -21,11 +21,11 @@ title                    : "Jherrera"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Juliana Herrera"
-description              : "Personal website."
+description              : "Personal website"
 url                      : # the base hostname & protocol for your site e.g. "https://julianapez.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "JulianaPez/Mypage"
-teaser                   : "/assets/images/acauca.jpg"
+teaser                   : "/assets/images/acauca.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
@@ -116,7 +116,7 @@ author:
   name             : "Juliana Herrera Pérez"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "phD Student at INECOL"
-  location         : "Xalapa-Veracuz"
+  location         : "Xalapa-Veracuzzaaaa"
   email            :
   links:
     - label: "Email"
