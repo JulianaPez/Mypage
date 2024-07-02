@@ -114,9 +114,9 @@ analytics:
 # Site Author
 author:
   name             : "Juliana Herrera Pérez"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "phD Student at INECOL"
-  location         : "Xalapa-Veracruz"
+  location         : "Xalapa-Veracuz"
   email            :
   links:
     - label: "Email"
